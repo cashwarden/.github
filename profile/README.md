@@ -8,6 +8,7 @@
 
 Hello! This is CashWarden team. We have created and maintaining [CashWarden](https://www.cashwarden.com/).
 
+If you have any questions, you can [create an issue](https://github.com/cashwarden/issues).
 
 ## Links
 

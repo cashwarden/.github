@@ -10,6 +10,12 @@ Hello! This is CashWarden team. We have created and maintaining [CashWarden](htt
 
 If you have any questions, you can [create an issue](https://github.com/cashwarden/issues).
 
+## About Code
+
+[api](https://github.com/cashwarden/api) and [web](https://github.com/cashwarden/web) is not supported yet. please use [api-pro](https://github.com/cashwarden/api-pro) and [web-pro](https://github.com/cashwarden/web-pro) for now.
+
+[CashWarden](https://www.cashwarden.com/) is currently using the V2 version, which is not currently open source.
+
 ## Links
 
 - [CashWarden](https://www.cashwarden.com/)

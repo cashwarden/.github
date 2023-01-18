@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/cashwarden" target="_blank">
-        <img src="https://www.cashwarden.com/assets/logo-color.svg" height="80px">
+        <img src="https://app.cashwarden.com/assets/logo-color.svg" height="80px">
     </a>
     <h2 align="center">CashWarden</h2>
 </p>
